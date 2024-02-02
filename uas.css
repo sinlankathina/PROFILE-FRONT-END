@@ -1,0 +1,23 @@
+body {
+    position: relative; 
+}
+
+* {
+    font-family: Helvetica;
+}
+
+img {
+    border: 1px solid #e49deb;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+  .cards {
+    padding: 15px 20px;
+    margin: 10px;
+    text-align: left;
+    background-color: #e49deb;
+    border-radius: 5px;
+    color: black;
+  }
